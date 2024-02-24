@@ -12,7 +12,7 @@ data in a tabular format, and visualizes the data using charts.
 
 1. ***Clone the repository***: 
 
-> git clone <repository-url>
+> git clone [<repository-url>](https://github.com/Sukhendu2000/Data-Visualization-Dashboard.git)
 
 2. Navigate to the project directory: 
 
